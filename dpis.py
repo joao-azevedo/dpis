@@ -11,6 +11,7 @@ def appsPurge():
             'thunderbird-locale-en',
             'thunderbird-locale-en-us',
             'rhythmbox',
+	    'google-chrome',
             'rhythmbox-data',
             'rhythmbox-plugin-tray-icon',
             'rhythmbox-plugins',
@@ -38,6 +39,7 @@ def appsInstall():
            'virtualbox-dkms',
            'virtualbox-qt',
            'flatpak',
+	   'firefox',
            'plank',
            'dropbox',
            'geary' ];
